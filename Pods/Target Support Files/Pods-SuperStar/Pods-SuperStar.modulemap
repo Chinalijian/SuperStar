@@ -1,0 +1,6 @@
+framework module Pods_SuperStar {
+  umbrella header "Pods-SuperStar-umbrella.h"
+
+  export *
+  module * { export * }
+}
